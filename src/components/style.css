@@ -1,0 +1,18 @@
+.parent{
+    background-color: greenyellow;
+    display:inline-block;
+    width:50vw;
+    
+}
+
+.child{
+    background-color: brown;
+    margin:10px;
+    display:inline-block;
+    width:48vw;
+}
+
+
+h1,input,p{
+    margin:10px;
+}
